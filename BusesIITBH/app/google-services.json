@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "225725705223",
+    "firebase_url": "https://busesiitbh.firebaseio.com",
+    "project_id": "busesiitbh",
+    "storage_bucket": "busesiitbh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225725705223:android:8aeabcd110742b91",
+        "android_client_info": {
+          "package_name": "com.gagan2005.busesiitbh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225725705223-vbs3hia8bl7g4oq4rd7u96t15qj9bbsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gagan2005.busesiitbh",
+            "certificate_hash": "b3389de7e1e92159d22b72c50f215fe1c096713d"
+          }
+        },
+        {
+          "client_id": "225725705223-ls27rj915aqqmoa56q880ge257hvh77p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsaJ7ZUiBxEQcG-ECBP5JjQrQNjYrPSco"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225725705223-ls27rj915aqqmoa56q880ge257hvh77p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
